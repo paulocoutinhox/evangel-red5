@@ -1,0 +1,37 @@
+########################################################################
+# THIS SOURCE CODE IS CREATED AND PUBLISHED BY PAULO COUTINHO - BRASIL #
+# CONTACT (EMAIL AND MSN ARE SAME): PAULO@PRSOLUCOES.COM               #
+# THIS IS A MMO GAME PROTOTYPE TO HELP OTHER CREATE OWNER GAME         #
+########################################################################
+
+
+1 - DOWNLOAD AND INSTALL A WEBSERVER
+(RECOMMENDED: http://www.zend.com/en/products/server-ce/downloads)
+
+2 - COPY FOLDER "web" to "htdocs or www" FOLDER OF WEB SERVER INSTALLATION
+
+3 - RENAME THE COPIED FOLDER "web" TO "evangel-red5" ON WEB SERVER "htdocs or www" FOLDER 
+
+4 - INSTALL RED5 SERVER (http://code.google.com/p/red5)
+
+5 - DOWNLOAD ECLIPSE FOR J2EE (http://www.eclipse.org/downloads/)
+
+6 - OPEN ECLIPSE AND INSTALL RED5 PLUGIN (http://red5.org/wiki/Red5Plugin)
+
+7 - ON ECLIPSE, IMPORT THE PROJECT "EvangelServer"
+
+8 - START RED5 ON ECLIPSE WITH PROJECT "EvangelServer" DEPLOYED
+
+9 - OPEN FLASH BUILDER 4 AND IMPORT THE PROJECT "Evangel-Red59
+
+10 - ON FLASH BUILDER 4 PRESS "PLAY" OR PRESS "CONTROL+F11"
+
+11 - THE GAME HAVE TO RUN ON YOUR DEFAULT BROWSER
+
+YOU CAN SEE THE DEMO HERE:
+http://www.prsolucoes.com/evangel-red5/
+
+ATTENTION: YOU CAN MODIFY AND DISTRIBUTE THE CODE FOR FREE - IF YOU CAN, SHOW ME YOUR WORK AND SEND THE ENGINE SOURCE CODE TO I MAKE A MORE POWERFULL AND ROBUST GAME ENGINE FOR US
+
+
+GOD BLESS EVERYBODY

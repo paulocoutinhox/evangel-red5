@@ -1,0 +1,37 @@
+###################################################################################
+# ESTE CÓDIGO FOI CRIADO E PUBLICADO POR PAULO COUTINHO - BRASIL                  #
+# CONTATO (EMAIL E MSN SÃO IGUAIS): PAULO@PRSOLUCOES.COM                          #
+# ETSE É UM PROTÓTIPO DE JOGO MMO PARA AJUDAR OTHER A CRIAREM SEUS PRÓPRIOS JOGOS #
+###################################################################################
+
+
+1 - BAIXE E INSTALE UM SERVIDOR WEB
+(RECOMENDADO: http://www.zend.com/en/products/server-ce/downloads)
+
+2 - COPIE A PASTA "web" PARA A PASTA "htdocs ou www" DO SEU SERVIDOR WEB
+
+3 - RENOMEIE ESTA PASTA COPIADA "web" PARA "evangel-red5" NA PASTA "htdocs ou www" DO SEU SERVIDOR WEB
+
+4 - INSTALE O SERVIDOR RED5 (http://code.google.com/p/red5)
+
+5 - FAÇA O DOWNLOAD DO ECLIPSE VERSÃO J2EE (http://www.eclipse.org/downloads/)
+
+6 - ABRA O ECLIPSE E INSTALE O PLUGIN (http://red5.org/wiki/Red5Plugin)
+
+7 - NO ECLIPSE, IMPORTE O PROJETO "EvangelServer"
+
+8 - INICIE O SERVIDOR DO RED5 PELO ECLIPSE COM O PROJETO "EvangelServer" DEPLOYADO
+
+9 - ABRA O FLASH FLASH BUILDER 4 E IMPORTE O PROJETO "Evangel-Red5"
+
+10 - NO FLASH BUILDER 4, APERTE O "PLAY" OU PRESSIONE "CONTROL+F11"
+
+11 - O JOGO IRÁ RODAR NO SEU NAVEGADOR PADRÃO
+
+VEJA O PROJETO DEMO AQUI:
+http://www.prsolucoes.com/evangel-red5/
+
+ATENÇÃO: VOCÊ PODE MODIFICAR E DISTRIBUIR O CÓDIGO LIVREMENTE - MAS SE PUDER, ME MOSTRE SEUS TRABALHOS FEITOS COM A ENGINE E ME ENVIE AS MODIFICAÇÕES FEITAS NELA PARA EU UNIR COM MEU CODIGO E FAZER UMA ENGINE CADA VEZ MELHOR PARA NÓS
+
+
+DEUS ABENÇÕE A TODOS

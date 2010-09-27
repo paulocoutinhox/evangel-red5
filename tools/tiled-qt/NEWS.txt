@@ -1,0 +1,71 @@
+0.5.1 (2 September 2010)
+* Fixed saving of objects when tile width is different from tile height
+* Updated Czech translation
+
+0.5.0 (30 June 2010)
+* Added support for import and export plugins
+* Added support for external tilesets
+* Added undo for adding tilesets and ability to remove tilesets
+* Added error handling to the New Tileset dialog
+* Added ability to change tileset order by dragging them around
+* Added option to draw the tile grid when saving as image
+* Added a context menu and tool buttons to the layer dock
+* Added Latvian translation
+* Added an install target to the Makefile
+* Open local files when they are dropped onto Tiled
+* Allow changing position and size of objects in the Object Properties dialog
+* Fixed rendering issues with tiles wider than the tile width of the map
+* Fixed eraser and fill tool working on invisible layers
+* Fixed a crash when using some tools when no map is loaded
+* Fixed compile errors related to detecting static builds
+* Fixed the Save dialog not suggesting any particular file extension
+* Updated Japanese, Dutch, German, Brazilian Portuguese, French, Portuguese
+  and Spanish translations
+
+0.4.1 (14 April 2010)
+* Added support for saving tile layer data as CSV
+* Added shift modifier to bucket fill tool for filling the selection
+* Added Brazilian Portugese, Japanese, French, Italian and Czech translations
+* Made values used in the New Map and New Tileset dialogs persistent
+* Fixed drawing selection highlight where brush is not painting
+* Fixed an incompatibility with Tiled Java in 'trans' attribute
+
+0.4.0 (30 January 2010)
+* Added support for isometric maps
+* Added automatic reloading of tileset images when they change
+* Added Offset Map action that can shift a set of layers by a certain amount
+* Added a fill tool
+* Added ability to duplicate map objects
+* Added support for choosing the tile layer data format used when saving
+* Added mouse wheel zooming support to the tileset view
+* Added an object display color attribute to object groups
+* Added ability to edit tile properties through a context menu
+* Made writing out a DTD reference optional and disabled it by default
+* Made translations functional
+* Updated Dutch, Portuguese, Spanish and German translations
+
+0.3.1 (22 November 2009)
+* Enabled undo command compression for stamp brush and eraser
+* Fixed reading of maps with non-binary-encoded layer data
+* Fixed a compile issue on Mac OS X related to QXmlStreamWriter
+* Fixed a crash when loading a map while holding Ctrl
+* Confirm overwrite on the right moment for 'Save as Image' dialog
+
+0.3.0 (13 November 2009)
+* Added a tile selection tool
+* Added support for cut, copy and paste
+* Added current cursor position to the status bar
+* Added keyboard shortcuts to switch tools
+* Added scrolling the map view with middle mouse button
+* Snap objects to the grid when Ctrl is pressed
+
+0.2.0 (1 October 2009)
+* Added support for zooming the map view
+* Added an eraser tool that allows you to erase tiles
+* Added ability to save a map as an image
+* Added support for masking tileset images based on a certain color
+* Added a slider to change the opacity of the current layer
+* Fixed the minimum row and column size in the tileset view
+* Fixed stamp creation when not dragging topleft to bottomright
+
+0.1.0 (1 September 2009)

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BulkLoader>
+	<name>lazy</name>
+	<numConnections>5</numConnections>
+	<logLevel>10</logLevel>
+	<stringSubstitutions>
+		<img_path>http://localhost/evangel-red5/assets/data/img/</img_path>
+        <map_path>http://localhost/evangel-red5/assets/data/map/</map_path>
+		<tilemap_path>http://localhost/evangel-red5/assets/data/tilemap/</tilemap_path>
+	</stringSubstitutions>
+	<allowsAutoIDFromFileName>true</allowsAutoIDFromFileName>
+	
+	<files>
+		
+		<file>
+			<id>player_male_base</id>
+            <url>{img_path}player_male_base.png</url>            
+		</file>
+		
+		<file>
+			<id>player_female_base</id>
+            <url>{img_path}player_female_base.png</url>            
+		</file>
+		
+		<file>
+			<id>head-crown</id>
+            <url>{img_path}head-crown.png</url>            
+		</file>
+		
+		<file>
+			<id>chest-terranite-male</id>
+            <url>{img_path}chest-terranite-male.png</url>            
+		</file>
+        	
+		<file>
+			<id>tilemap_00001</id>
+            <url>{tilemap_path}tilemap_00001.png</url>            
+		</file>
+        
+	</files>
+</BulkLoader>
